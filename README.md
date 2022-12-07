@@ -26,3 +26,4 @@ ADB Installer was created by [OpenAI's ChatGPT](https://openai.com/blog/chatgpt/
 
 ADB Installer is licensed under the [MIT License](https://github.com/origamiofficial/Windows-ADB-Installer/blob/main/LICENSE).
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/origamiofficial/Windows-ADB-Installer&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/origamiofficial/Windows-ADB-Installer)
